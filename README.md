@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 > [!tip]
-> I'm sachi, welcome to my [site](https://codebearjourney.top)
+> 🌱 I'm sachi, welcome to my [site](https://codebearjourney.top).
 
 ## My Github Stats
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianyuxbear&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tianyuxbear&show_icons=true&theme=blue_navy" /> 
 </div>
 
