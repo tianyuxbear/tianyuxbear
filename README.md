@@ -5,7 +5,7 @@
 
 ## My Github Stats
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianyuxbear&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" alt="languages" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianyuxbear&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=blue_navy" alt="languages" width="46%" />
   <img src="https://github-readme-stats.vercel.app/api?username=tianyuxbear&show_icons=true&theme=blue_navy" alt="stats" width="52%" />
 </div>
 
