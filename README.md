@@ -5,8 +5,8 @@
 
 ## My Github Stats
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianyuxbear&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=transparent" alt="languages" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tianyuxbear&show_icons=true&theme=transparent" alt="stats" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tianyuxbear&show_icons=true&theme=transparent" alt="stats" width="51.8%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianyuxbear&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=transparent" alt="languages" width="46.2%" />
 </div>
 
 
